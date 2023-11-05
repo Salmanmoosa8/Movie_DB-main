@@ -1,0 +1,17 @@
+{
+  "name": "movie-db-main",
+  "version": "1.0.0",
+  "description": "npm install ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm install express"
+  },
+  "keywords": [
+    "movie-db-main"
+  ],
+  "author": "Salman",
+  "license": "ISC",
+  "dependencies": {
+    "package.json": "^2.0.1"
+  }
+}
